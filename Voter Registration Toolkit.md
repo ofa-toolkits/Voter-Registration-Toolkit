@@ -1,4 +1,4 @@
-**Voter Registration**** Toolkit**
+**Voter Registration**
 
 **Introduction**
 
